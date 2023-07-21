@@ -1,0 +1,10 @@
+---
+
+name: R3
+
+data:
+    router_id: "192.168.164.150"
+    protocol: ospf
+    process_id: 1
+    ospf_networks: "1.1.1.1 0.0.0.0"
+    area: 0 

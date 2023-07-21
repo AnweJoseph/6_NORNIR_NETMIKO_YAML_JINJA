@@ -1,0 +1,7 @@
+---
+
+cisco:
+  platform: "ios"
+
+junos:
+  platform: "junos"
